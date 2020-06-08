@@ -10,5 +10,5 @@ Second, I used Yolov3 to detect fault locations (all files in Coursework2_Chung)
   3. Split this data into train/test samples
   4. Setup a .config file for the model of choice (you could train your own from scratch, but we'll be using transfer learning)
   5. Train
-  6. Export graph from new trained model
+  6. Export graph from new trained model\
 LabelImg : https://pypi.org/project/labelImg/

@@ -1,6 +1,6 @@
 # Solar-phovoltaic-faults-classification
 # PV faults classification
-Firstly, I used Simulink to collect data, you can see the file  **Data_Collection_method.pdf** for more detail.\
+Firstly, I used Simulink to collect data. Check the file named  **Data_Collection_method.pdf** for more details.\
 In order to classify the faults of the PV system, I used a neural network that consists of 3 fully connected layers. The Keras implementation can be found in the **final_thesis.ipynb file.**
 ## Detect fault locations
 Second, I used Yolov3 to detect fault locations (all files in Coursework2_Chung). The dataset contains 120 thermal images of PV panel, split into 100 images for training and 20 images for testing.
